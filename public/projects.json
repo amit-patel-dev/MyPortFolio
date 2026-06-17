@@ -1,0 +1,187 @@
+[
+  {
+    "id": "women-power-line",
+    "title": "Women Power Line (1090)",
+    "subtitle": "Government Project",
+    "category": "Government",
+    "description": "End-to-end call and case data management system for a state government helpline serving thousands of daily users. Integrated Darpan KPI system into CM Dashboard Portal and connected 112 Emergency Events API for real-time incident tracking.",
+    "techStack": ["ASP.NET MVC", "SQL Server", "Bootstrap", "JavaScript", "jQuery"],
+    "features": [
+      "Custom IVRS integration for automated call routing",
+      "IP-based authentication for secure access",
+      "Live call centre monitoring dashboard",
+      "Comprehensive data analytics and reporting modules",
+      "Darpan KPI integration with CM Dashboard Portal",
+      "112 Emergency Events API for real-time incident tracking"
+    ],
+    "url": "",
+    "logo": "FaShieldAlt",
+    "color": "#ef4444"
+  },
+  {
+    "id": "social-media-platform",
+    "title": "Social Media Monitoring & Analytics",
+    "subtitle": "Enterprise Platform",
+    "category": "Enterprise",
+    "description": "Centralized platform managing Facebook, Instagram, WhatsApp, LinkedIn, YouTube, and X from a single dashboard with post creation, scheduling, and drafting features. Built real-time analytics modules tracking engagement and audience growth.",
+    "techStack": ["ASP.NET Core", "SQL Server", "Meta APIs", "REST APIs", "JavaScript"],
+    "features": [
+      "Multi-platform post creation, scheduling & drafting",
+      "Real-time analytics: engagement, impressions, audience growth",
+      "Secure OAuth account-linking workflows",
+      "Webhook handling & token management",
+      "Automated content publishing pipelines",
+      "Cross-platform performance comparison"
+    ],
+    "url": "",
+    "logo": "FaChartLine",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "media-monitoring",
+    "title": "Media Monitoring & Intelligence",
+    "subtitle": "AI-Powered Platform",
+    "category": "AI/ML",
+    "description": "Aggregated real-time news from RSS feeds, YouTube Data API, TV streams, and news APIs into a centralized monitoring dashboard. Integrated NLP-based Entity Recognition, Sentiment Analysis, and Severity Detection.",
+    "techStack": ["ASP.NET Core", "NLP/AI Models", "RSS", "YouTube API", "SQL Server"],
+    "features": [
+      "Real-time news aggregation from multiple sources",
+      "NLP-based Entity Recognition & Named Entity Extraction",
+      "Sentiment Analysis with severity scoring",
+      "Digital, print, and broadcast media monitoring",
+      "Trend identification & impact analysis",
+      "Centralized monitoring dashboard"
+    ],
+    "url": "",
+    "logo": "FaBrain",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "baatcheet",
+    "title": "BaatCheet",
+    "subtitle": "Real-Time Communication Platform",
+    "category": "Communication",
+    "description": "WhatsApp-inspired platform with instant messaging, audio/video calling, group conversations, and media file sharing using WebRTC and scalable backend architecture. Integrated AI-powered chat features.",
+    "techStack": ["ASP.NET Core", "WebRTC", "SignalR", "REST APIs", "SQL Server"],
+    "features": [
+      "Instant messaging with real-time sync",
+      "Audio & video calling via WebRTC",
+      "Group conversations & media file sharing",
+      "AI-powered chat features",
+      "Optimized REST APIs for high performance",
+      "Cross-device message synchronization"
+    ],
+    "url": "https://baatcheet.bsite.net",
+    "logo": "FaComments",
+    "color": "#06b6d4"
+  },
+  {
+    "id": "meetup",
+    "title": "MeetUp",
+    "subtitle": "Video Conferencing Platform",
+    "category": "Communication",
+    "description": "Google Meet-inspired platform with HD video/audio calling, screen sharing, meeting scheduling, participant management, and host controls. Built scalable real-time data handling for stable multi-user conferencing.",
+    "techStack": ["ASP.NET Core", "WebRTC", "REST APIs", "SignalR", "SQL Server"],
+    "features": [
+      "HD video & audio calling",
+      "Screen sharing & presentation mode",
+      "Meeting scheduling & calendar integration",
+      "Participant management & host controls",
+      "Low-latency multi-user conferencing",
+      "Scalable real-time data handling"
+    ],
+    "url": "https://meetwithus.bsite.net",
+    "logo": "FaVideo",
+    "color": "#10b981"
+  },
+  {
+    "id": "school-erp",
+    "title": "School ERP",
+    "subtitle": "School Management System",
+    "category": "Enterprise",
+    "description": "Comprehensive ERP for schools automating attendance, fee management, student records, staff administration, and role-based access control. Implemented dynamic ID card generation and automated PDF reporting.",
+    "techStack": ["ASP.NET Core", "SQL Server", "Bootstrap", "JavaScript", "jQuery"],
+    "features": [
+      "Attendance management & tracking",
+      "Fee management & payment processing",
+      "Student records & enrollment system",
+      "Staff administration & role-based access control",
+      "Dynamic ID card generation",
+      "Automated PDF reporting with optimized stored procedures"
+    ],
+    "url": "https://brpd.bsite.net",
+    "logo": "FaGraduationCap",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "whatsapp-integration",
+    "title": "WhatsApp Business Integration",
+    "subtitle": "Meta WhatsApp Platform",
+    "category": "Enterprise",
+    "description": "Implemented Meta WhatsApp Business Platform for chatbot automation, live agent support, and case registration workflows, improving customer response efficiency across the organization.",
+    "techStack": ["ASP.NET Core", "Meta WhatsApp API", "REST APIs", "SQL Server", "JavaScript"],
+    "features": [
+      "Chatbot automation for common queries",
+      "Live agent support handoff",
+      "Case registration workflows",
+      "Template message management",
+      "Customer response tracking & analytics",
+      "Multi-agent conversation handling"
+    ],
+    "url": "https://whatsapp.technosysservices.org",
+    "logo": "FaWhatsapp",
+    "color": "#22c55e"
+  },
+  {
+    "id": "fas-system",
+    "title": "Financial Accounting System (FAS)",
+    "subtitle": "Accounting Platform",
+    "category": "Enterprise",
+    "description": "A comprehensive Financial Accounting System designed for robust ledger management and financial tracking. Currently in active development.",
+    "techStack": ["React.js", ".NET Core", "SQL Server", "Web API"],
+    "features": [
+      "Financial ledger and account management",
+      "Balance sheet and transaction tracking",
+      "Double-entry bookkeeping implementation",
+      "Secure financial reporting and analytics"
+    ],
+    "url": "",
+    "logo": "FaChartLine",
+    "color": "#10b981"
+  },
+  {
+    "id": "sgfi-digilocker",
+    "title": "SGFI Digilocker & Aadhaar Integration",
+    "subtitle": "School Games Federation of India",
+    "category": "Government",
+    "description": "Secure portal integrating Digilocker and Aadhaar e-KYC for the School Games Federation of India (SGFI), ensuring authentic player profile verification and secure document fetching.",
+    "techStack": ["ASP.NET Core", "API Setu", "Digilocker API", "Aadhaar e-KYC", "SQL Server"],
+    "features": [
+      "Secure Aadhaar-based e-KYC authentication",
+      "Digilocker digital document fetch integration",
+      "Player profile authentication workflows",
+      "Secure API Setu implementation"
+    ],
+    "url": "https://sgfi.org.in",
+    "logo": "FaShieldAlt",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "factualsanatan",
+    "title": "Factual Sanatan (CMS)",
+    "subtitle": "Content Management & Social Platform",
+    "category": "Enterprise",
+    "description": "A dynamic content management system and social platform where users can post blogs, upload videos, manage e-books, generate AI-powered summaries, and engage via likes and comments.",
+    "techStack": ["ASP.NET Core", ".NET Core", "SQL Server", "AI Summarization", "REST APIs"],
+    "features": [
+      "User-generated content creation (Blogs & Videos)",
+      "E-Book upload and library management",
+      "AI-powered automatic content summarization",
+      "Social sharing, likes, and comment system",
+      "Interactive social feed and content distribution"
+    ],
+    "url": "https://factualsanatan.com",
+    "logo": "FaRocket",
+    "color": "#8b5cf6"
+  }
+]
